@@ -1,4 +1,4 @@
-# UseCases_Portfolio
+# Show Case Projects
 
 Springboard's Data Science Career Track program is an intensive Data Science bootcamp. The curriculum covers core concepts on Python for Data Science (Pandas, NumPy, SciPy, Matplotlib, Scikit-Learn), Inferential Statistics (hypothesis testing, experimental design, A/B testing), Relational Databases (SQL), Machine Learning (supervised & unsupervised learning) and Neural Networks, as well as advanced topics on Time Series Forecasting, Recommender Systems, NLP and Spark.
 
