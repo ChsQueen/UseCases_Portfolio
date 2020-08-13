@@ -18,3 +18,6 @@ Projects:
 • EDA performed to scrub and clean text. Prepared Data Visualization to gauge categories and distribution of data.
 • Latent Semantic analysis model, TF-IDF, Word2Vec for feature selection.
 • Increase user engagement by 10%
+
+3) Spark
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3670937757766288/1264367773553367/661915836533491/latest.html
