@@ -24,3 +24,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 4) Unsupervised Clustering for customer segmentation  https://github.com/ChsQueen/SB_submissions/tree/master/Clustering
 
+5) Text Sentiment Analysis - https://github.com/ChsQueen/SB_submissions/tree/master/Naive_Bayes
+
