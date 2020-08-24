@@ -22,6 +22,5 @@ Projects:
 3) Spark
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3670937757766288/1264367773553367/661915836533491/latest.html
 
-4) https://github.com/ChsQueen/SB_submissions/tree/master/Clustering
+4) Unsupervised Clustering for customer segmentation  https://github.com/ChsQueen/SB_submissions/tree/master/Clustering
 
-5) 
